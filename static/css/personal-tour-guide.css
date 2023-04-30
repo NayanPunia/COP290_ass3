@@ -1,0 +1,769 @@
+.full-shot-travel-concept-with-icon2 {
+  position: absolute;
+  top: 289px;
+  left: 0;
+  width: 1440px;
+  height: 1343px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.personal-tour-guide-child {
+  text-decoration: none;
+  position: absolute;
+  top: 176px;
+  left: 380px;
+  background-color: var(--color-gainsboro);
+  width: 168px;
+  height: 107px;
+  cursor: pointer;
+}
+
+
+/* .torist3 {
+  position: absolute;
+  font-family: var(--font-inter);
+  top: 18px;
+  left: 1px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 393px;
+  height: 60px;
+} */
+.personal-tour-guide-child1,
+.personal-tour-guide-inner,
+.personal-tour-guide-item {
+  text-decoration: none;
+  position: absolute;
+  top: 179px;
+  background-color: var(--color-gainsboro);
+  height: 107px;
+}
+.personal-tour-guide-item {
+  left: 964px;
+  width: 199px;
+  cursor: pointer;
+}
+.personal-tour-guide-child1,
+.personal-tour-guide-inner {
+  left: 736px;
+  width: 231px;
+}
+.personal-tour-guide-child1 {
+  top: 178px;
+  left: 548px;
+  width: 188px;
+  cursor: pointer;
+}
+.booking1,
+.loginsign-up {
+  position: absolute;
+  font-family: var(--font-inter);
+  width: 150px;
+}
+.booking1 {
+  top: 249px;
+  left: 420px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.loginsign-up {
+  left: 994px;
+}
+.loginsign-up,
+.most-popular1,
+.personal-tour-guide2 {
+  top: 249px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.personal-tour-guide2 {
+  position: absolute;
+  left: 750px;
+  font-family: var(--font-inter);
+  width: 229px;
+}
+.most-popular1 {
+  left: 592px;
+  width: 150px;
+}
+.frame-item,
+.home2,
+.most-popular1,
+.torist1 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.torist1 {
+  top: 18px;
+  left: 15px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 393px;
+  height: 60px;
+}
+.frame-item,
+.home2 {
+  font-size: var(--font-size-5xl);
+}
+.frame-item {
+  border: 0;
+  display: block;
+  background-color: var(--color-white);
+  top: 108px;
+  left: 178px;
+  border-radius: var(--br-31xl);
+  width: 1084px;
+  height: 57px;
+  overflow: hidden;
+}
+.home2 {
+  top: 226px;
+  left: 94px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+  width: 162px;
+  height: 35px;
+}
+.home-duotone-child1,
+.home-duotone-child2,
+.home-duotone-child3 {
+  position: absolute;
+  height: 58.33%;
+  width: 58.33%;
+  top: 29.64%;
+  right: 20.83%;
+  bottom: 12.02%;
+  left: 20.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-duotone-child2,
+.home-duotone-child3 {
+  height: 37.5%;
+  width: 75%;
+  top: 17.22%;
+  right: 12.5%;
+  bottom: 45.28%;
+  left: 12.5%;
+}
+.home-duotone-child3 {
+  height: 25%;
+  width: 20.83%;
+  top: 62.5%;
+  right: 39.58%;
+  bottom: 12.5%;
+  left: 39.58%;
+}
+.home-duotone-child4 {
+  position: absolute;
+  height: 16.67%;
+  width: 8.33%;
+  top: 20.83%;
+  right: 25%;
+  bottom: 62.5%;
+  left: 66.67%;
+  border-radius: var(--br-12xs-5);
+  background-color: var(--color-gray-100);
+}
+.home-duotone1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 165px;
+  left: 108px;
+  width: 48px;
+  height: 48px;
+}
+.sign-in-squre-fill-icon {
+  position: absolute;
+  top: 195px;
+  left: 1045px;
+  width: 48px;
+  height: 48px;
+}
+.menu-child1,
+.menu-child2,
+.menu-child3 {
+  position: absolute;
+  height: 4.17%;
+  width: 62.5%;
+  top: 27.08%;
+  right: 18.75%;
+  bottom: 68.75%;
+  left: 18.75%;
+  border-radius: var(--br-11xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-child2,
+.menu-child3 {
+  top: 47.92%;
+  bottom: 47.92%;
+}
+.menu-child3 {
+  top: 68.75%;
+  bottom: 27.08%;
+}
+.menu1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1366px;
+  width: 48px;
+  height: 48px;
+}
+.pin-duotone-child1,
+.pin-duotone-inner {
+  position: absolute;
+  height: 67.51%;
+  width: 67.51%;
+  top: 11.64%;
+  right: 11.64%;
+  bottom: 20.85%;
+  left: 20.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pin-duotone-child1 {
+  height: 21.67%;
+  width: 21.67%;
+  top: 58.96%;
+  right: 58.96%;
+  bottom: 19.38%;
+  left: 19.38%;
+}
+.pin-duotone1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 631px;
+  width: 48px;
+  height: 48px;
+}
+.map-duotone-line-child3,
+.map-duotone-line-child4 {
+  position: absolute;
+  height: 47.92%;
+  width: 16.67%;
+  top: 22.92%;
+  right: 64.58%;
+  bottom: 29.17%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child4 {
+  top: 25%;
+  right: 18.75%;
+  bottom: 27.08%;
+  left: 64.58%;
+}
+.map-duotone-line-child5,
+.map-duotone-line-child6,
+.map-duotone-line-child7 {
+  position: absolute;
+  height: 51.96%;
+  width: 64.58%;
+  top: 21.94%;
+  right: 17.71%;
+  bottom: 26.11%;
+  left: 17.71%;
+  border-radius: 0.45px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-duotone-line-child6,
+.map-duotone-line-child7 {
+  height: 41.67%;
+  width: 2.08%;
+  top: 31.25%;
+  right: 34.38%;
+  bottom: 27.08%;
+  left: 63.54%;
+}
+.map-duotone-line-child7 {
+  top: 22.92%;
+  right: 63.54%;
+  bottom: 35.42%;
+  left: 34.38%;
+}
+.map-duotone-line1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 434px;
+  width: 48px;
+  height: 48px;
+}
+.ellipse-icon,
+.user-cicrle-duotone-inner {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.user-cicrle-duotone-inner {
+  height: 75%;
+  width: 75%;
+  top: 12.5%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 12.5%;
+  border-radius: var(--br-33xl);
+}
+.ellipse-icon {
+  height: 33.33%;
+  width: 33.33%;
+  top: 25%;
+  right: 33.33%;
+  bottom: 41.67%;
+  left: 33.33%;
+}
+.intersect-icon1 {
+  position: relative;
+  border-radius: 0.25px;
+  width: 25.14px;
+  height: 12px;
+}
+.user-cicrle-duotone1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 24px;
+  left: 1307px;
+  width: 48px;
+  height: 48px;
+}
+.group-light-child1,
+.group-light-child2,
+.group-light-child3,
+.group-light-child4 {
+  position: absolute;
+  height: 25%;
+  width: 25%;
+  top: 20.83%;
+  right: 37.5%;
+  bottom: 54.17%;
+  left: 37.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-light-child2,
+.group-light-child3,
+.group-light-child4 {
+  height: 20.83%;
+  width: 20.83%;
+  right: 23.6%;
+  bottom: 58.33%;
+  left: 55.56%;
+}
+.group-light-child3,
+.group-light-child4 {
+  width: 19.44%;
+  right: 55.56%;
+  left: 25%;
+}
+.group-light-child4 {
+  height: 27.08%;
+  width: 47.68%;
+  top: 51.04%;
+  right: 26.16%;
+  bottom: 21.88%;
+  left: 26.16%;
+}
+.subtract-icon3 {
+  position: relative;
+  width: 14.16px;
+  height: 11px;
+}
+.group-light1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 195px;
+  left: 838px;
+  width: 48px;
+  height: 48px;
+}
+.more1 {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.expand-down-child {
+  position: absolute;
+  height: 29.42%;
+  width: 52.95%;
+  top: 36.03%;
+  right: 23.53%;
+  bottom: 34.55%;
+  left: 23.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.expand-down {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: -3px;
+  left: 81px;
+  width: 48px;
+  height: 48px;
+}
+.booking-group,
+.more-parent {
+  position: absolute;
+  background-color: var(--color-silver-100);
+  overflow: hidden;
+}
+.more-parent {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  top: 203px;
+  left: 1266px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  width: 129px;
+  height: 42px;
+}
+.booking-group {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 273px;
+}
+.span3 {
+  font-size: var(--font-size-17xl);
+}
+.b1 {
+  font-family: var(--font-inter);
+}
+.content4 {
+  font-size: var(--font-size-5xl);
+}
+.plan-to-travel5 {
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.content-plan-to-container1,
+.social-media1 {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.content-plan-to-container1 {
+  top: 0;
+  left: 0;
+  white-space: pre-wrap;
+  width: 472px;
+  height: 179px;
+}
+.social-media1 {
+  top: 10px;
+  left: 1244px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  width: 196px;
+  height: 83px;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 99.39%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.61%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-negative1 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1244px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 99.98%;
+  width: 99.94%;
+  top: 0;
+  right: 0.06%;
+  bottom: 0.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon7,
+.vector-icon8 {
+  height: 51.37%;
+  width: 51.37%;
+  top: 24.32%;
+  right: 24.32%;
+  bottom: 24.32%;
+  left: 24.32%;
+}
+.vector-icon8 {
+  height: 11.99%;
+  width: 11.99%;
+  top: 17.3%;
+  right: 17.3%;
+  bottom: 70.7%;
+  left: 70.7%;
+}
+.instagram-negative1 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1317px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon9 {
+  position: absolute;
+  height: 81.25%;
+  width: 100%;
+  top: 9.37%;
+  right: 0;
+  bottom: 9.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter-negative1 {
+  text-decoration: none;
+  position: absolute;
+  top: 42px;
+  left: 1389px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.content-plan-to-travel-popular-group {
+  position: absolute;
+  top: 1453px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 177px;
+  overflow: hidden;
+}
+.frame-input,
+.frame-nav {
+  background-color: var(--color-silver-100);
+  position: absolute;
+  text-align: center;
+}
+.frame-nav {
+  top: 273px;
+  left: 0;
+  width: 1440px;
+  height: 32px;
+  overflow: hidden;
+}
+.frame-input {
+  border: 0;
+  font-weight: 900;
+  font-family: var(--font-avenir);
+  font-size: var(--font-size-29xl);
+  top: 415px;
+  left: 425px;
+  border-radius: var(--br-31xl);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.word{
+  color: #FFFFFF;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: large;
+  position: relative;
+  height: 82.18%;
+  width: 62.18%;
+  top: 30.74%;
+  right: 20.08%;
+  bottom: 23.08%;
+  left: 12.74%;
+  overflow: hidden;
+}
+
+.btn{
+  color: #072ffa;
+  height: 45px;
+  width: 20%;
+  font-size: 20px;
+  border: 1px solid #010101;
+  border-radius: 25px;
+  background-color: #ffffc1;
+}
+
+.destination {
+  font-size: 35px;
+  background-color: #d2ffff;
+  text-align: center;
+  text-decoration: solid;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.destination::placeholder {
+  color: #8e7fec;
+}
+
+
+
+.enter-the-place {
+  font-size: var(--font-size-21xl);
+}
+.blank-line24,
+.enter-the-place {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.your-ultimate-resource {
+  margin: 0;
+  text-align: center;
+}
+.enter-the-place-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.enter-the-place-container {
+  position: absolute;
+  top: 680px;
+  left: 270px;
+  letter-spacing: 0.04em;
+  display: flex;
+  align-items: center;
+  width: 911px;
+  height: 615px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-silver-100);
+  position: absolute;
+  top: 580px;
+  left: 670px;
+  border-radius: var(--br-31xl);
+  filter: blur(8px);
+  width: 100px;
+  height: 100px;
+}
+/* .search-alt-child,
+.search-alt-inner,
+.search-alt-item {
+  position: absolute;
+  height: 62.18%;
+  width: 62.18%;
+  top: 14.74%;
+  right: 23.08%;
+  bottom: 23.08%;
+  left: 14.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+} */
+/* .search-alt-inner,
+.search-alt-item {
+  height: 25%;
+  width: 25%;
+  top: 31.41%;
+  right: 43.59%;
+  bottom: 43.59%;
+  left: 31.41%;
+} */
+/* .search-alt-inner {
+  height: 16.35%;
+  width: 16.35%;
+  top: 68.91%;
+  right: 14.74%;
+  bottom: 14.74%;
+  left: 68.91%;
+}
+.search-alt {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 606px;
+  left: 696px;
+  width: 52px;
+  height: 52px;
+} */
+.personal-tour-guide1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1630px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-autour-one);
+}

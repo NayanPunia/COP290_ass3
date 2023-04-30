@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+
+{% block title %}
+Tour Guides List
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="row pb-5">
+    <div class="col-md-10 col-lg-8 mx-lg-auto mx-md-auto">
+
+      <p class="lead alert alert-warning">This is a list of all the guides that specialize in the area .</p>
+
+	  <p class="ml-4"><a href="{{ url_for('tour_guide') }}">Back</a></p>
+
+		<table class="table">
+			<tr>
+				<th>Name</th>
+				<th>Age</th>
+				<th>Gender</th>
+				<th>E-mail</th>
+				<th>Phone No.</th>
+				<th>Ratings</th>
+			</tr>
+
+			{% for i in account %}
+			<tr>
+				<td>{{ i.guide_name }}</td>
+				<td>{{ i.age }}</td>
+				<td>{{ i.gender }}</td>
+				<td>{{ i.email_id }}</td>
+				<td>{{ i.phone_number }}</td>
+				<td>{{ i.rating }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+		<div class="msg">{{ msg }}</div>
+		</div>
+	</div>
+</div>
+
+{% endblock %}
